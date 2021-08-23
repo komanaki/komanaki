@@ -8,7 +8,7 @@
 * 🎓 5 years of **computer science education**, graduate of a Master of Science in video games development
 * 🏢 7 years of **professional experience**, from small startups to a major daily newspaper
 * ✈️ Been 1 year **in Japan** to travel around the country and discover its way of life
-* 🕹️ Made a lot of **mini-games** at the annual Global Game Jam, as well as a **3D rhythm-based exploration game** as my graduation project
+* 🕹️ Made a lot of **mini-games** during Global Game Jam, as well as a **3D rhythm-based exploration game** as my graduation project
 * 💻 Working as a **freelance** developer
 * 👨‍🏫 Teaching **web development** at the post-graduate school that I've been
 
