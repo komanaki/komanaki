@@ -6,11 +6,12 @@
 ### It's me
 
 * 🎓 5 years of **computer science education**, graduate of a Master of Science in video games development
-* 🏢 7 years of **professional experience**, from small startups to a major daily newspaper
-* ✈️ Been 1 year **in Japan** to travel around the country and discover its way of life
+* 🏢 8 years of **professional experience**, from small startups to a major daily newspaper
+* ✈️ 1 year **all around Japan** to travel, discover its way of life and work as a part-time civil worker
 * 🕹️ Made a lot of **mini-games** during Global Game Jam, as well as a **3D rhythm-based exploration game** as my graduation project
 * 💻 Working as a **freelance** developer
-* 👨‍🏫 Teaching **web development** at the post-graduate school that I've been
+* 👨‍🏫 Teaching **web development** at the post-graduate school from I've graduated
+* 👨‍🍳 Waiter in an **Udon japanese restaurant** in Paris, to enhance my Japanese skills
 
 ### I like to work with
 
@@ -21,8 +22,8 @@
 ### What I'm doing recently
 
 * 📚 Studying **management and production systems**, rights and inequality at work, etc
-* 🕹️ Creating a **3D dungeon crawler** and a **visual novel** in Unity to enhance my game development skills
-* 💬 Writing a new **scripting language** aimed for dialogues in video games
+* 🕹️ Working on [Project Spirits](https://www.michaelhubert.me/project-spirits/), which consists of a **3D dungeon crawler** and a **visual novel** both made with Unity
+* 💬 Writing the [KoeScript](https://github.com/komanaki/koescript) **scripting language** aimed for dialogues in video games
 * 🐍 Slowly discovering the most recent features of **Python 3.x**
 * 🌐 Making some personal projets with **React**
 
